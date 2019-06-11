@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Yasuo_2.jpg</file>
+        <file>league-of-legends.png</file>
+        <file>Preto.jpg</file>
+        <file>Pretinho.jpg</file>
+        <file>mother-nature.jpg</file>
+        <file>preservacao-natureza.jpg</file>
+        <file>cda_thumbs_LoL.jpg</file>
+        <file>Kayn.jpg</file>
+    </qresource>
+</RCC>
