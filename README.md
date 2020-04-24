@@ -1,2 +1,2 @@
 # ListaTelefonicaCRUD
-CRUD com armazenamento físico, feito no QT Creator.
+CRUD com armazenamento arquivo, feito no QT Creator.
